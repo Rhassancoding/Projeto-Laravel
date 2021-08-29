@@ -1,6 +1,6 @@
 #                                                                      Projeto-Laravel 
-### Autor Rhassan Rodrigues Santos 
-### Cursando Sitemas Da informação 4ª Periodo  
+### Autor:Rhassan Rodrigues Santos 
+### Cursando Sitemas Da Informação 4ª Periodo  
 
  ![Instituição](https://inscricoes.facimp.com.br/assets/imgs/ies/12/logo.png) 
 
