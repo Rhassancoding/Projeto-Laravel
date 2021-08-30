@@ -1,4 +1,4 @@
-#                                                                      Meu Projeto-Laravel Entendendo sobre essa Framework
+#                                                                  Projeto-Laravel Entendendo sobre essa Framework
 **Autor: Rhassan Rodrigues Santos**
 
 <div style="text-aling:right"> Cursando Sitemas Da Informação </div> 
