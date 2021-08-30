@@ -1,5 +1,5 @@
 #                                                                      Meu Projeto-Laravel Entendendo sobre essa Framework
-  **Autor: Rhassan Rodrigues Santos **
+**Autor: Rhassan Rodrigues Santos **
 <div style="text-aling:right"> Cursando Sitemas Da Informação 4ª Periodo </div> 
 
  ![Instituição](https://inscricoes.facimp.com.br/assets/imgs/ies/12/logo.png) 
