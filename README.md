@@ -1,6 +1,6 @@
 #                                                                      Projeto-Laravel 
-<div style="text-align:"> Autor:Rhassan Rodrigues Santos </div>
-<div style="text-aling:"> Cursando Sitemas Da Informação 4ª Periodo </div> 
+<div style="text-align:right"> Autor:Rhassan Rodrigues Santos </div>
+<div style="text-aling:right"> Cursando Sitemas Da Informação 4ª Periodo </div> 
 
  ![Instituição](https://inscricoes.facimp.com.br/assets/imgs/ies/12/logo.png) 
 
