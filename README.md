@@ -4,5 +4,5 @@
 
  ![Instituição](https://inscricoes.facimp.com.br/assets/imgs/ies/12/logo.png) 
 
-*  [Acesse a Wiki do Projeto](https://github.com/Rhassancoding/Projeto-Laravel/wiki)
+*  [Acesse a Wiki do Projeto](https://github.com/Rhassancoding/Projeto-Laravel/wiki/Mais-sobre-este-Projeto-Laravel)
 *  [Meu Git](https://github.com/Rhassancoding)
